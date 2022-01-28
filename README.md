@@ -1,6 +1,6 @@
 # Filipe Lander
 
-👋 Olá, me chamo Filipe Lander e comecei a programar em janeiro de 2022. 
+👋 Olá, me chamo **Filipe Lander** e comecei a programar em janeiro de 2022. 
 
 👀 Eu estou interessado em aprender **Javascript** e sobre as tecnologias que fazem parte da sua stack, como **ReactJS** e **NodeJS**.
 
