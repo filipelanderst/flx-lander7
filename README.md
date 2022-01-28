@@ -4,7 +4,7 @@
 
 👀 Eu estou interessado em aprender **Javascript** e sobre as tecnologias que fazem parte da sua stack, como **ReactJS** e **NodeJS**.
 
-📚 Atualmente estou estudando **UI Design** e de **HTML** e **CSS**. 
+📚 Atualmente estou estudando **UI Design** e **HTML** e **CSS**. 
 
 🤝 Assim que estiver mais independente com a linguagem quero contribuir com projetos de código aberto, pois gosto muito dessa filosofia de trabalho.
 
