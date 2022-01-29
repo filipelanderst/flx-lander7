@@ -11,4 +11,4 @@
 🏗️ Aqui irei postar meus primeiros projetos originais, e também compartilhar alguns links, artigos e vídeos que utilizei para
 aprimorar meus conhecimentos e que considero úteis para pessoas — que assim como eu — estão iniciando em programação.
 
-📧 Caso tenha interesse você pode se conectar comigo pelo **Linkedin**, meu linke é https://www.linkedin.com/in/flx-lander7/ 
+📧 Caso tenha interesse você pode se conectar comigo pelo **Linkedin**, o endereço é https://www.linkedin.com/in/flx-lander7/ 
