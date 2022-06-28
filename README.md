@@ -16,6 +16,8 @@ aprimorar meus conhecimentos e que considero úteis para pessoas — que assim c
 [![flx-lander7's GitHub stats](https://github-readme-stats.vercel.app/api?username=flx-lander7)](https://github.com/flx-lander7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flx-lander7&layout=compact)](https://github.com/flx-lander7/github-readme-stats)
 
+---
+
 ## Habilidades
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
