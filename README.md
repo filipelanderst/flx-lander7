@@ -12,3 +12,5 @@
 aprimorar meus conhecimentos e que considero úteis para pessoas — que assim como eu — estão iniciando em programação.
 
 📧 Caso tenha interesse você pode se conectar comigo pelo **Linkedin**, o endereço é https://www.linkedin.com/in/flx-lander7/ 
+
+[![flx-lander7's GitHub stats](https://github-readme-stats.vercel.app/api?username=flx-lander7)](https://github.com/flx-lander7/github-readme-stats)
