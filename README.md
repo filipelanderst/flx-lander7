@@ -2,14 +2,14 @@
 
 ### Tecnologias
 <div style="display: flex;">
-  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" style="width: 23px; height: 23px"/>
-  <img src="https://www.svgrepo.com/show/353884/html-5.svg" style="width: 23px; height: 23px"/>
-  <img src="https://www.svgrepo.com/show/353623/css-3.svg" style="width: 23px; height: 23px"/>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" style="width: 23px; height: 23px"/>
-  <img src="https://www.svgrepo.com/show/353943/json.svg" style="width: 23px; height: 23px"/>
-  <img src="https://www.svgrepo.com/show/354259/react.svg" style="width: 25px; height: 25px"/> 
-  <img src="https://www.svgrepo.com/show/354310/sass.svg" style="width: 25px; height: 25px"/>
-  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="width: 25px; height: 25px"/>
+  <img src="https://www.svgrepo.com/show/353782/git-icon.svg" style="width: 20px; height: 20px"/>
+  <img src="https://www.svgrepo.com/show/353884/html-5.svg" style="width: 20px; height: 20px"/>
+  <img src="https://www.svgrepo.com/show/353623/css-3.svg" style="width: 20px; height: 20px"/>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" style="width: 20px; height: 20px"/>
+  <img src="https://www.svgrepo.com/show/353943/json.svg" style="width: 20px; height: 20px"/>
+  <img src="https://www.svgrepo.com/show/354259/react.svg" style="width: 22px; height: 22px"/> 
+  <img src="https://www.svgrepo.com/show/354310/sass.svg" style="width: 22px; height: 22px"/>
+  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="width: 22px; height: 22px"/>
 </div>
 <br>
 
